@@ -1,0 +1,16 @@
+{
+  "name": "autocomplete",
+  "version": "1.0.0",
+  "authors": [
+    "filipco56 <fico.hiki@gmail.com>"
+  ],
+  "description": "search wiki",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
